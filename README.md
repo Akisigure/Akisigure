@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![AKisigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akisigure&show_icons=true&theme=radical)
+![Akisigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akisigure&show_icons=true&theme=radical)
 
 <!--
 **Akisigure/Akisigure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
