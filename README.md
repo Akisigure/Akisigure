@@ -3,7 +3,9 @@
 <h2 align="center"> ### My github profile 👋</h2>
 <div align="center">
 <hr>
+  <div align="center">
 ![Akisigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akisigure&show_icons=true&theme=tokyonight&count_private=true)
+  </div>
 <hr>
 <h3>technical stack :computer: </h3>
 <div align="center">
