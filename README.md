@@ -1,6 +1,14 @@
 
 
-<h2 align="center">My github profile 👋</h2>
+<h2 align="center">My github profile 👋</h2> 
+
+<div align="right">
+  
+[![daeone99@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daeone99@gmail.com)
+
+</div>
+
+
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Akisigure's%20portfolio&fontSize=70&animation=fadeIn)
@@ -13,7 +21,7 @@
   </div>
 <hr>
 <h3>technical stack :computer: </h3>
-<div align="center">
+<div align="left">
 
   <b>Language</b> : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,12 +48,11 @@
 
 
 
-![daeone99@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:daeone99@gmail.com)()
-
 
 
 
 </div>
+
 
 
 <!--
