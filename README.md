@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Akisigure's%20portfolio&fontSize=70&animation=fadeIn)
 
 <h2 align="center"> ### My github profile 👋</h2>
-<hr>
 <div align="center">
 <hr>
 ![Akisigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akisigure&show_icons=true&theme=tokyonight&count_private=true)
