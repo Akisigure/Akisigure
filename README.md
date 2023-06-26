@@ -11,7 +11,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Akisigure's%20portfolio&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Akisigure's%20profile&fontSize=70&animation=fadeIn)
   
   <div align="center">
   
