@@ -37,6 +37,7 @@
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/React-00A5FF.svg?style=for-the-badge&logo=React&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-FFA500.svg?style=for-the-badge&logo=Express&logoColor=white)
+  ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
  
   <b>DataBase</b> : ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
