@@ -33,7 +33,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-007396?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-  <b>FrameWork</b> : ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  <b>FrameWork</b> :
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/React-00A5FF.svg?style=for-the-badge&logo=React&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-FFA500.svg?style=for-the-badge&logo=Express&logoColor=white)
